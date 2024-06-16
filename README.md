@@ -12,4 +12,4 @@ This template has been developed by [@codewithsadee](https://www.twitter.com/cod
 
 Donations: [Patreon](https://patreon.com/codewithsadee).
 
-License: MIT (see LICENSE file).
+License: MIT (see LICENSE file).# alpha
